@@ -1,0 +1,52 @@
+.number {
+  margin: 2%;
+}
+
+.error {
+  color: #ff0000;
+}
+
+.fields {
+  margin: 2%;
+  padding: 2%;
+}
+
+header {
+  background-color: #f3d89e;
+  padding: 20px;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.number .lb {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.mt {
+  margin: 3%;
+}
+
+.ft {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 2%;
+  margin-top: 7%;
+  width: auto;
+}
+
+.ft a {
+  color: white;
+}
+
+.ft img {
+  height: 20px;
+  width: 20px;
+}
+
+.ft span {
+  margin: 6px;
+  display: block;
+}
