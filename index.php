@@ -11,7 +11,7 @@
 <html lang="en">
 
 <head>
-    <script id="sharer_iife_script" src="https://patelka2211.github.io/sharer/bundle/sharer.iife.min.js"></script><script id="sharer_button_script" src="https://patelka2211.github.io/sharer/bundle/sharer_button.min.js" type="text/javascript"></script>
+    <!-- Sharer scripts start --><script src="https://cdn.jsdelivr.net/gh/patelka2211/dynamic-colors@1.1.5/DynamicColors.js"></script><script src="https://cdn.jsdelivr.net/gh/patelka2211/dominar@1.2.4/Dominar.js"></script><script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script><script src="https://cdn.jsdelivr.net/gh/patelka2211/sharer@1.0.0/Sharer.js"></script><script defer id="sharer-utility-js" class="activate-button set-color-efd9a5" src="https://cdn.jsdelivr.net/gh/patelka2211/sharer@1.0.0/utility.js"></script><!-- Sharer scripts end -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
